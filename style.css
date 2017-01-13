@@ -1,0 +1,227 @@
+
+
+/*  Developer: Babatunde;
+    Site: Project Site;
+    Date: December 12th, 2016;
+
+*/
+
+h1{
+    font-family: Raleway;
+    color: orange;
+    /*font-weight: bold;*/
+}
+        .ex2{
+          border: solid;
+          background-color:#37474F ;
+        }
+
+        .page2{
+
+          text-align: center;
+          background-color:#37474F ;
+        }
+
+
+h3{
+    font-family: Arima Madurai;
+    color: red;
+}
+
+body{
+    background: url(http://www.lanlinglaurel.com/data/out/107/4876106-nature-images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: #FFDEAD*/;
+    font-family:Arima Madurai;
+
+}
+
+
+    p.lable{
+        font-family: Orbitron;
+        color: #ff4444;
+    }
+
+
+
+
+p{
+    font-family:Orbitron;
+    font-weight: normal;
+    line-height: 1.5;
+    color: brown;
+}
+
+ #login {
+    font-family: Orbitron;
+ }
+
+ #username{
+    font-family: Orbitron;
+ }
+
+ #email{
+    font-family: Orbitron;
+ }
+
+ #password{
+    font-family: Orbitron;
+ }
+
+
+
+/*  Forms.html Page */
+        table{
+            color: brown;
+        }
+
+
+
+div{
+    /*background-color: #FFDEAD;*/
+    background: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Orbitron;
+    font-weight: lighter;
+
+}
+
+    .framework{
+        font-family: Orbitron;
+        color: #263238;
+        text-align: justify;
+}
+
+
+
+            /* ------- Ruby Page  ----------- */
+    .body_ruby{
+                background-color: #5F9EA0;
+                font-family:Arima Madurai;
+}
+
+
+    .info_ruby_page{
+        color: #263238;
+        text-align: justify;
+        background-color: #b3e5fc;
+}
+
+ h2{
+    font-family: Orbitron;
+    color: #ff4444;
+    border: 2px solid brown;
+    text-align: center;
+
+}
+
+
+.ruby_test{
+    background-color: pink;
+}
+
+
+
+            /* ----------- Home  Page -----------------  */
+
+
+    .skill{
+      color: #A0522D;
+      background-color:;
+      column-count: 5;
+
+
+    }
+
+    .next_0{
+        color: #263238;
+        text-align: justify;
+        background-color: #D2691E;
+}
+
+    .next_1{
+        color: #263238;
+        text-align: justify;
+        background-color: #b3e5fc;
+}
+
+    .next_2{
+        color:#4b0082;
+        text-align: justify;
+        font-family: Arima Madurai;
+        background-color: #f08080
+}
+
+
+            .next_3{
+                color: #263238;
+                text-align: justify;
+                background-color: #b3e5fc;
+        }
+
+
+        .footer{
+            text-align: center;
+        }
+
+
+
+
+#special_java{
+    color: red;
+}
+
+
+#special_python{
+    color: green;
+}
+
+#special_ruby{
+    color: blue;
+}
+
+#special_csharp{
+    color: purple;
+}
+
+#special_dropdown{
+    color: purple;
+}
+
+
+/*  Testing bunber bee*/
+#prog1{
+    color: AD4710;
+}
+
+
+#test{
+    color: red;
+}
+
+
+/*----------------   Bootstrap linked to home page---------------- */
+
+.teal {
+    background: #b2dfdb;
+    border: 1px solid gray;
+}
+
+.cyan {
+    background: #b2ebf2;
+    border: 1px solid gray;
+}
+
+.cap {
+    background: #ffccbc;
+    border: 1px solid gray;
+}
+
+.git {
+    background: #d7ccc8;
+    border: 1px solid gray;
+}
+
+
