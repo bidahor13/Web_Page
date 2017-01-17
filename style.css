@@ -14,24 +14,30 @@ h1{
         .ex2{
           border: solid;
           background-color:#37474F ;
+          padding: 10px;
         }
 
         .page2{
 
           text-align: center;
-          background-color:#37474F ;
+          background-color:#37474F;
+          padding: 10px;
         }
 
+html{
+   height: 100%;
+}
 
 h3{
-    font-family: Arima Madurai;
+    font-family: orbitron;
     color: red;
 }
 
 body{
-    background: url(http://www.lanlinglaurel.com/data/out/107/4876106-nature-images.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    /*background: url(http://www.lanlinglaurel.com/data/out/107/4876106-nature-images.jpeg);*/
+    background: url(https://images.unsplash.com/photo-1482745637430-91c0bbcea3e1?dpr=1&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=1000&amp;q=80&amp;cs=tinysrgb&amp;crop=>);
+    background-size:cover;
+    background-position: center;
     /*background-color: #FFDEAD*/;
     font-family:Arima Madurai;
 
@@ -43,6 +49,12 @@ body{
         color: #ff4444;
     }
 
+.projects{
+   /* text-align: center;*/
+    /*margin: 20px 20px 20px 20px;*/
+    font-size: 20px;
+    width: 300px;
+}
 
 
 
@@ -80,11 +92,12 @@ p{
 
 div{
     /*background-color: #FFDEAD;*/
-    background: url();
+    /*background: url();*/
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Orbitron;
     font-weight: lighter;
+
 
 }
 
@@ -100,13 +113,17 @@ div{
     .body_ruby{
                 background-color: #5F9EA0;
                 font-family:Arima Madurai;
+                /*padding: 10px;*/
+
 }
+
 
 
     .info_ruby_page{
         color: #263238;
         text-align: justify;
         background-color: #b3e5fc;
+
 }
 
  h2{
@@ -120,6 +137,7 @@ div{
 
 .ruby_test{
     background-color: pink;
+
 }
 
 
@@ -164,10 +182,20 @@ div{
 
         .footer{
             text-align: center;
+            line-height: 20;
         }
 
 
+.row{
+    text-align: center;
+}
 
+
+.row_proj{
+    /*text-align: center;*/
+    /*float: left;*/
+
+}
 
 #special_java{
     color: red;

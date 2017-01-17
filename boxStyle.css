@@ -1,0 +1,74 @@
+ /*Style for Photo Blog -->
+ Name: Babatunde -->
+ Profession: Software Developer */
+
+
+#pic1 {
+    border: 2px solid blue;
+    width: 200px;
+    padding: 10px;
+    background-color: green;
+      margin: 20px 20px 20px 20px;
+      float :left;
+
+
+
+    /*padding-left: 50px;
+    margin: 100px;
+    margin-top: 50px;*/*/
+
+
+    /*margin: auto 0 auto;
+    margin: 50px auto;*/
+}
+
+
+.projects{
+
+}
+
+
+#pic2{
+    font-family: Righteous;
+     border: 2px solid blue;
+    width: 200px;
+    padding: 10px;
+    background-color: purple;
+    margin: 20px 20px 20px 20px;
+     float: left;
+}
+
+
+#pic3{
+    font-family: Courgette;
+    border: 2px solid blue;
+    width: 200px;
+    padding: 10px;
+    background-color: yellow;
+    margin: 20px 20px 20px 20px;
+     float: left;
+}
+
+#pic4{
+    font-family: Cinzel;
+     border: 2px solid blue;
+    width: 200px;
+    padding: 10px;
+    background-color: blue;
+    margin: 20px 20px 20px 20px;
+    float: left;
+}*/
+
+/*div{
+    width: 100px;
+    float: left;
+}
+
+#pic1{
+    background-color: brown;
+}
+
+#pic2{
+    background-color: green;
+}*/
+
